@@ -20,7 +20,7 @@ Each project demonstrates the application of these numerical methods to real-wor
 
 ### Project 4: Numerical study of magnetic phase transitions and critical temperature in a ferromagnet using the 2D Ising model
 
-### Project 5: Numerically simulating 
+### Project 5: Numerically simulating the 2D many slit experiment using the Crank-Nicolson method
 
 ## Technologies Used
 
