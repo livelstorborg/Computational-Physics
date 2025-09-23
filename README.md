@@ -2,6 +2,9 @@
 
 This repository contains all projects completed for the Computational Physics course, demonstrating numerical methods and simulations for solving physics problems.
 
+**Note**: This repository contains the final versions of projects uploaded from local development. The complete development history and commit messages from the original collaborative work are not included in this GitHub repository.
+
+
 ## Course Overview
 
 This course provides a comprehensive introduction to computational methods essential for solving physics and chemistry problems. The curriculum covers core numerical techniques including ordinary and partial differential equations, linear algebra operations, eigenvalue problems, numerical integration, and Monte Carlo simulations. 
